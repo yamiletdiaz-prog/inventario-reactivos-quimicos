@@ -1,6 +1,6 @@
-# 🧪 Sistema de Inventario de Reactivos Químicos
+# Sistema de Inventario de Reactivos Químicos
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este repositorio contiene un **sistema de inventario de reactivos químicos** desarrollado en **Python**, orientado a un entorno real de **producción de detergentes**.
 
@@ -10,7 +10,7 @@ El sistema permite **registrar, visualizar y eliminar reactivos químicos**, inc
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Aplicar los fundamentos de Python en un proyecto práctico.
 * Integrar conocimientos de programación con un contexto químico-industrial.
@@ -20,7 +20,7 @@ El sistema permite **registrar, visualizar y eliminar reactivos químicos**, inc
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 * Agregar reactivos químicos al inventario.
 * Visualizar todos los reactivos registrados.
@@ -30,7 +30,7 @@ El sistema permite **registrar, visualizar y eliminar reactivos químicos**, inc
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 inventario_reactivos/
@@ -43,23 +43,23 @@ inventario_reactivos/
 
 ---
 
-## 🧩 Descripción de los módulos
+## Descripción de los módulos
 
-### 🔹 main.py
+### main.py
 
 Archivo principal que contiene el menú del sistema y controla el flujo del programa. Se encarga de interactuar con el usuario y llamar a las funciones de los otros módulos.
 
-### 🔹 inventario.py
+### inventario.py
 
 Módulo encargado de la gestión de los reactivos químicos. Utiliza listas, diccionarios y sets para almacenar y manipular los datos.
 
-### 🔹 validaciones.py
+### validaciones.py
 
 Contiene funciones que validan los datos ingresados por el usuario, como códigos, textos y cantidades.
 
 ---
 
-## 🧪 Estructuras de datos utilizadas
+## Estructuras de datos utilizadas
 
 * **Listas (`list`)**: almacenan los reactivos.
 * **Diccionarios (`dict`)**: representan cada reactivo químico.
@@ -68,7 +68,7 @@ Contiene funciones que validan los datos ingresados por el usuario, como código
 
 ---
 
-## ⚙️ Requisitos técnicos cumplidos
+## Requisitos técnicos cumplidos
 
 * Uso de `input()` y `print()`.
 * Condicionales (`if`, `elif`, `else`).
@@ -80,7 +80,7 @@ Contiene funciones que validan los datos ingresados por el usuario, como código
 
 ---
 
-## ▶️ Cómo ejecutar el programa
+## Cómo ejecutar el programa
 
 1. Abrir una terminal.
 2. Navegar a la carpeta del proyecto.
@@ -92,13 +92,13 @@ python main.py
 
 ---
 
-## 🗣️ Explicación para evaluación
+## Explicación para evaluación
 
 > *Este proyecto demuestra el uso de estructuras de control, funciones, estructuras de datos y modularización en Python, aplicados a un sistema realista de inventario de reactivos químicos para la producción de detergentes.*
 
 ---
 
-## 🚀 Posibles mejoras futuras
+## Posibles mejoras futuras
 
 * Control de stock mínimo.
 * Registro de lotes.
@@ -108,12 +108,12 @@ python main.py
 
 ---
 
-## 👩‍🔬 Contexto aplicado
+## Contexto aplicado
 
 El proyecto está orientado a un entorno real de **producción química**, integrando conocimientos de programación con procesos industriales, lo que aporta valor práctico y profesional al sistema.
 
 ---
 
-## ✅ Conclusión
+## Conclusión
 
 Este proyecto demuestra una correcta aplicación de los conceptos fundamentales de Python, junto con una organización clara del código y documentación adecuada.
